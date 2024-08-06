@@ -1,7 +1,3 @@
-print("hello world!")
+print("Hello world!")
 
-print("this is my code")
-
-print("the date is 06/08/2024")
-
-
+print("This is line 2")
